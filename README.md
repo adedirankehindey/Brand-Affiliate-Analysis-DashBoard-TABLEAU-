@@ -1,10 +1,11 @@
 # Brand-Affiliate-Analysis DashBoard-TABLEAU-
-Data Analytics | Marketing Performance | Tableau Visualization
+**Data Analytics | Marketing Performance | Tableau Visualization**
+
 <img width="1365" height="695" alt="Screenshot " src="https://github.com/user-attachments/assets/8d75d0b1-ba55-4d2f-996c-caaaf83bbcc6" />
 
 ---
 
-## 📊Project Overview
+## 🚀Project Overview
 This project analyzes affiliate marketing performance across multiple gaming brands between January and March 2024. The goal is to evaluate brand-level acquisition performance, traffic quality, and revenue contribution using marketing funnel metrics such as impressions, clicks, signups, and first-time deposits.
 
 The analysis was developed as an end-to-end data analytics project including data preparation, metric design, exploratory analysis, and interactive dashboard development using Tableau.
@@ -13,8 +14,8 @@ The dashboard allows stakeholders to quickly evaluate marketing effectiveness ac
 
 ---
 
-## ❗ Problem Statement
-Affiliate marketing is a major acquisition channel for many digital businesses. However, marketing teams often face several challenges:
+## 🎯 Business Problem
+Affiliate marketing is a major acquisition channel for many digital businesses. However, marketing teams often face several challenges such as:
 
 • Limited visibility into which brands drive the most profitable traffic  
 • Difficulty identifying where customer drop-off occurs in the acquisition funnel  
@@ -28,50 +29,41 @@ This project addresses these challenges by building a centralized analytics dash
 ## 🗂 Data Structure and Overview
 
 Dataset Source Files:
-• CSV Dataset  
+
 • Excel Dataset  
 • Tableau Workbook (.twbx)  
-• Dashboard Image Preview (.jpg)
+• CSV Dataset  
 
 Main Data Fields:
 
-| Column | Description |
-|------|-------------| Brand | Gaming brand name |
-| Brand ID | Unique identifier for each brand |
-| Month and Year | Reporting period |
-| Affiliate | Affiliate source sending traffic |
-| Impressions | Number of ad impressions |
-| Clicks | Number of ad clicks |
-| Signups | New account registrations |
-| NDC | New depositing customers |
-| FDT | First time deposits |
-| Net Revenue | Revenue generated |
-| Earnings | Affiliate earnings |
+• Column Description: | Brand | Gaming brand name
+• Brand ID | Unique identifier for each brand
+• Month and Year | Reporting period
+• Affiliate | Affiliate source sending traffic
+• Impressions | Number of ad impressions
+• Clicks | Number of ad clicks
+• Signups | New account registrations
+• NDC | New depositing customers
+• FDT | First time deposits
+• Net Revenue | Revenue generated
+• Earnings | Affiliate earnings
 
 The dataset represents the affiliate marketing funnel from visibility to revenue.
 
-Marketing Funnel Structure:
-
-Impressions → Clicks → Signups → Deposits → Revenue
+Marketing Funnel Structure: Impressions → Clicks → Signups → Deposits → Revenue
 
 ---
 
-## 🗂 Repository Structure
+## 🧮 Repository Structure
 
 Brand-Affiliate-Analytics/
-│
 ├── data/
-│   ├── Brand-Affiliate-Dataset.csv
-│   ├── Brand-Affiliate-Dataset.xlsx
-│
+├── Brand-Affiliate-Dataset.csv
+├── Brand-Affiliate-Dataset.xlsx
 ├── dashboard/
-│   ├── BrandAffiliate.twbx
-│   ├── dashboard-preview.jpg
-│
+├── BrandAffiliate.twbx
 ├── docs/
-│   └── project-explanation.md
-│
-└── README.md
+├── project-explanation.md
 
 ---
 
@@ -103,9 +95,6 @@ Data Analysis
 
 Visualization
 • Tableau Dashboard
-
-Version Control
-• GitHub
 
 ---
 
@@ -143,14 +132,12 @@ Built Tableau dashboard visualizations:
 The dashboard reveals significant differences in marketing performance across brands.
 
 Key insights:
-
-• Nesine generated the highest share of impressions (64%)
-• Bilyoner achieved the strongest new customer acquisition (40% share)
-• Click performance varies significantly across brands
-• Revenue distribution shows concentration among a few key brands
-• Some brands generate impressions but limited conversions
-
-These insights help marketing teams prioritize investment into high-performing acquisition channels.
+- Nesine generated the highest share of impressions (64%)
+- Bilyoner achieved the strongest new customer acquisition (40% share)
+- Click performance varies significantly across brands
+- Revenue distribution shows concentration among a few key brands
+- Some brands generate impressions but limited conversions
+These insights will help the marketing teams prioritize investment into high-performing acquisition channels.
 
 ---
 
@@ -170,14 +157,14 @@ Based on the analysis:
 
 Affiliate marketing performance varies significantly across brands. By visualizing the acquisition funnel from impressions to revenue, this project provides actionable insights that allow marketing teams to:
 
-• allocate budgets effectively
-• optimize acquisition strategy
-• improve customer conversion
-• maximize marketing ROI
+1. Allocate budgets effectively
+2. Optimize acquisition strategy
+3. Improve customer conversion
+4. Maximize marketing ROI
 
 ---
 
-## How to Use This Project
+## ▶️ How to Use This Project
 
 1. Clone the repository
 2. Download the dataset files
@@ -185,6 +172,3 @@ Affiliate marketing performance varies significantly across brands. By visualizi
 4. Explore the dashboard filters
 5. Analyze brand performance metrics
 6. Extend the project with additional KPIs
-
----
-
