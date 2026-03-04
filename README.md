@@ -1,10 +1,10 @@
 # Brand-Affiliate-Analysis DashBoard-TABLEAU-
-
 Data Analytics | Marketing Performance | Tableau Visualization
+<img width="1365" height="695" alt="Screenshot " src="https://github.com/user-attachments/assets/8d75d0b1-ba55-4d2f-996c-caaaf83bbcc6" />
 
 ---
 
-## Project Overview
+## 📊Project Overview
 This project analyzes affiliate marketing performance across multiple gaming brands between January and March 2024. The goal is to evaluate brand-level acquisition performance, traffic quality, and revenue contribution using marketing funnel metrics such as impressions, clicks, signups, and first-time deposits.
 
 The analysis was developed as an end-to-end data analytics project including data preparation, metric design, exploratory analysis, and interactive dashboard development using Tableau.
@@ -13,7 +13,7 @@ The dashboard allows stakeholders to quickly evaluate marketing effectiveness ac
 
 ---
 
-## Problem Statement
+## ❗ Problem Statement
 Affiliate marketing is a major acquisition channel for many digital businesses. However, marketing teams often face several challenges:
 
 • Limited visibility into which brands drive the most profitable traffic  
@@ -25,7 +25,7 @@ This project addresses these challenges by building a centralized analytics dash
 
 ---
 
-## Data Structure and Overview
+## 🗂 Data Structure and Overview
 
 Dataset Source Files:
 • CSV Dataset  
@@ -56,7 +56,26 @@ Impressions → Clicks → Signups → Deposits → Revenue
 
 ---
 
-## Success Metrics
+## 🗂 Repository Structure
+
+Brand-Affiliate-Analytics/
+│
+├── data/
+│   ├── Brand-Affiliate-Dataset.csv
+│   ├── Brand-Affiliate-Dataset.xlsx
+│
+├── dashboard/
+│   ├── BrandAffiliate.twbx
+│   ├── dashboard-preview.jpg
+│
+├── docs/
+│   └── project-explanation.md
+│
+└── README.md
+
+---
+
+## 📈 Success Metrics
 
 Key performance indicators used in the analysis include:
 
@@ -73,7 +92,7 @@ These metrics allow measurement of both acquisition performance and profitabilit
 
 ---
 
-## Tools Used
+## 🛠 Tools Used
 
 Data Processing
 • Microsoft Excel
@@ -90,7 +109,7 @@ Version Control
 
 ---
 
-## Data Analysis Process
+## 🔎Data Analysis Process
 
 Step 1: Data Collection
 Affiliate marketing data was collected from Excel and CSV sources.
@@ -119,7 +138,7 @@ Built Tableau dashboard visualizations:
 
 ---
 
-## Executive Summary
+## 📊 Executive Summary
 
 The dashboard reveals significant differences in marketing performance across brands.
 
@@ -135,7 +154,7 @@ These insights help marketing teams prioritize investment into high-performing a
 
 ---
 
-## Recommendations
+## 💡Recommendations
 
 Based on the analysis:
 
@@ -147,7 +166,7 @@ Based on the analysis:
 
 ---
 
-## Conclusion
+## 🧾Conclusion
 
 Affiliate marketing performance varies significantly across brands. By visualizing the acquisition funnel from impressions to revenue, this project provides actionable insights that allow marketing teams to:
 
@@ -155,26 +174,6 @@ Affiliate marketing performance varies significantly across brands. By visualizi
 • optimize acquisition strategy
 • improve customer conversion
 • maximize marketing ROI
-
----
-
-## LinkedIn Storytelling Version
-
-Data without context rarely drives decisions.
-
-I built a Tableau dashboard to analyze affiliate marketing performance across multiple brands. Instead of only tracking traffic metrics, the project focused on the full acquisition funnel:
-
-Impressions → Clicks → Signups → Deposits → Revenue
-
-The analysis quickly revealed which brands actually generate high value customers rather than just traffic.
-
-Key insight:
-One brand generated the majority of impressions, but another brand delivered the highest new depositing customers.
-
-This type of analysis helps marketing teams shift focus from vanity metrics to revenue-driving acquisition.
-
-Tools used:
-Tableau | Excel | Data Analysis | Marketing Analytics
 
 ---
 
@@ -189,21 +188,3 @@ Tableau | Excel | Data Analysis | Marketing Analytics
 
 ---
 
-## Repository Structure
-
-Brand-Affiliate-Analytics/
-│
-├── data/
-│   ├── Brand-Affiliate-Dataset.csv
-│   ├── Brand-Affiliate-Dataset.xlsx
-│
-├── dashboard/
-│   ├── BrandAffiliate.twbx
-│   ├── dashboard-preview.jpg
-│
-├── docs/
-│   └── project-explanation.md
-│
-└── README.md
-
----
