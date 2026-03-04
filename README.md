@@ -1,4 +1,4 @@
-# Brand-Affiliate-Analysis DashBoard-TABLEAU-
+# Brand-Affiliate-Analysis DashBoard-TABLEAU
 **Data Analytics | Marketing Performance | Tableau Visualization**
 
 <img width="1365" height="695" alt="Screenshot " src="https://github.com/user-attachments/assets/8d75d0b1-ba55-4d2f-996c-caaaf83bbcc6" />
